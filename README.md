@@ -4,7 +4,7 @@
 Clusters of Node.js processes can be used to run multiple instances of Node.js that can distribute workloads among their application threads. When process isolation is not needed, use the worker_threads module instead, which allows running multiple application threads within a single Node.js instance.
 
 
-![Logo]([https://wallpaperaccess.com/download/nodejs-3909224](https://miro.medium.com/v2/resize:fit:1200/1*m5RYM_Wkj4LsZewpigV5tg.jpeg))
+![Logo]([[https://wallpaperaccess.com/download/nodejs-3909224](https://miro.medium.com/v2/resize:fit:1200/1*m5RYM_Wkj4LsZewpigV5tg.jpeg](https://miro.medium.com/v2/resize:fit:720/format:webp/1*m5RYM_Wkj4LsZewpigV5tg.jpeg)))
 
 
 ## Source Code 
