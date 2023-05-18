@@ -43,7 +43,7 @@ if (cluster.isPrimary) {
 
 
 
-## Run the application
+## Run the container
 
 
 ```bash
